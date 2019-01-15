@@ -10,3 +10,4 @@ Using a Windows 10 PC, the setup of Windows Systesm for Linux and Ubuntu was ver
 The tip I suggest is to setup a symbolic directory link from the Windows file system to the Ubuntu home directory.  This is more convenient for accessing the Myriota SDK.
 i.e.  download and unzip the Myriota SDK to a convenient Windows directory.  Under Ubuntu create a symbolic link to the Windows directory.
 
+![Alt text]()
