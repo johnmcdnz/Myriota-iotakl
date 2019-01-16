@@ -47,6 +47,8 @@ Having sent data from the satellite simulator the next step is to retrieve the d
 Assuming that a developr account has been created, the next step is to configure an endpoint terminal.
   
 I have created an account at pubnub.com for this purpose, and also using Postman as a test tool.
+
+![](Screenshot%20(51).png)
   
   
 <h2>Next steps?</h2>
