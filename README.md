@@ -13,8 +13,7 @@ We set out to achieve setup of the dev kit and use of the Myriota examples as tu
 ![](IMG_20190115_152005176.jpg)
 
 <h2>1/  Software Dev Environment</h2>
-Using a Windows 10 PC, the setup of Windows Systesm for Linux and Ubuntu was very straightforward to complete and worked exactly as expected.  I recommend using this.
-
+Using a Windows 10 PC, the setup of Windows Systesm for Linux and Ubuntu was very straightforward to complete and worked exactly as expected.  I recommend using this.</n>
 
 A further tip is to setup a symbolic directory link from the Windows file system to the Ubuntu home directory.  This is more convenient for accessing the Myriota SDK.
 i.e.  download and unzip the Myriota SDK to a convenient Windows directory.  Under Ubuntu create a symbolic link to the actual Windows directory.
@@ -55,6 +54,7 @@ I have created an account at pubnub.com for this purpose, and also using Postman
   
 <h2>Next steps?</h2>
 With data being received at Pubnub, we can now forward this to other tools or platforms, or use it as a model in setting up other platforms.  Once the Myriota dev kit is live via the satellite service an example will be to forward data to the Owntracks application to create a simple GPS tool.   https://owntracks.org/
+
 
 
 I hope this account is of assistance and I can be contacted for advice.  Best wishes to the Myriota team.
