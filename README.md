@@ -48,7 +48,7 @@ Assuming that a developr account has been created, the next step is to configure
   
 I have created an account at pubnub.com for this purpose, and also using Postman as a test tool.
 
-![](Screenshot%20(51).png)
+![](Screenshot%20(51b).png)
   
   
 <h2>Next steps?</h2>
