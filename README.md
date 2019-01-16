@@ -11,8 +11,9 @@ What we set out to achieve was the dev kit setup and use of the examples as tuto
 <h2>1/  Software Dev Environment</h2>
 Using a Windows 10 PC, the setup of Windows Systesm for Linux and Ubuntu was very straightforward to complete and worked exactly as expected.  I recommend using this.
 
-The tip I suggest is to setup a symbolic directory link from the Windows file system to the Ubuntu home directory.  This is more convenient for accessing the Myriota SDK.
-i.e.  download and unzip the Myriota SDK to a convenient Windows directory.  Under Ubuntu create a symbolic link to the Windows directory.
+
+A further tip is to setup a symbolic directory link from the Windows file system to the Ubuntu home directory.  This is more convenient for accessing the Myriota SDK.
+i.e.  download and unzip the Myriota SDK to a convenient Windows directory.  Under Ubuntu create a symbolic link to the actual Windows directory.
 
 ![](Screenshot%20(47).png)
 
