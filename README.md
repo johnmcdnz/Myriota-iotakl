@@ -17,9 +17,13 @@ i.e.  download and unzip the Myriota SDK to a convenient Windows directory.  Und
 ![](Screenshot%20(47).png)
 
 
+Building a binary for download to the dev board
+![](Screenshot%20(50).png)
+
+
 <h2>2/  Use a Raspberry Pi for the Satellite Simulator</h2>
 In the photo at the top of the page you see the satellite simulator setup on a Raspberry Pi with the SDR dongle connected.  The Myriota dev board is adjacent.  This is all running from a portable powerbank.
-![](IMG_20190115_152005176.jpg)
+
 
 The advantage of this is that the satellite simulator is now running independently from the dev board software environment.
 
