@@ -2,6 +2,8 @@
 
 The IoT Auckland Meetup had a two day hackathon workshop to trial out the Myriota dev kit and below are some thoughts and experiences from the setup.
 
+Please contact John if there are any queries.   john@johnmcdermott.nz
+
 ![](IMG_20190110_155617658_HDR.jpg)
 
 This readme isn't meant to be a 'how to' guide, rather confirmation of a practical development environment and what can be done.
